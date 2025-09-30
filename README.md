@@ -1,0 +1,2 @@
+<h1>Calculator</h1>
+<p>A calculator is a handy device or software tool designed to carry out basic to advanced mathematical calculations with ease. It helps solve arithmetic problems, scientific equations, financial tasks, and statistical operations efficiently. From simple handheld models to advanced scientific and graphing calculators, they are widely used in schools, offices, businesses, and daily life to save time and ensure accuracy in problem-solving.</p>
